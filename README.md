@@ -36,3 +36,5 @@ sudo pacman -S base-devel python sdl2 glew zlib-devel libcurl-devel
 ```
 
 ### Usage Documentation
+All the input necesary is documented when the scripts ask you
+Note: If your wondering where does the coopdx folder appear well it appears in the home directory
