@@ -5,7 +5,7 @@ A simple python script for (almost)automaticaly compiling SM64coopdx for linux.
 
 # How to use
 #### Dependencies (Taken from the coopdx build documentation)
-The build system has the following package requirements:
+The script has the following package requirements:
 
 * python3 >= 3.6
 * libsdl2-dev
