@@ -20,8 +20,10 @@ final_headless = " HEADLESS="+headless
 final_render_api = " RENDER_API="+render_api
 final_window_api = " WINDOW_API="+window_api
 user = getpass.getuser()
+make_command = "make"+final_jobs+final_target_bits+final_discord_sdk+final_coopnet+final_headless+final_render_api+final_window_api
+
 command1 = "cd /home/"+user+" && git clone https://github.com/coop-deluxe/sm64coopdx.git"
-command2 = "cd /home/"+user+"/sm64coopdx && make"+final_jobs+final_target_bits+final_discord_sdk+final_coopnet+final_headless+final_render_api+final_window_api
+command2 = "cd /home/"+user+"/sm64coopdx &&"+make_command
 
 
 os.system(command1)
