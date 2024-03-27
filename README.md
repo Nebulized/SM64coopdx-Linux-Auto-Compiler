@@ -4,7 +4,7 @@ Note: this is not like the windows coopdx patcher and this has only been tested 
 A simple python script for (almost)automaticaly compiling SM64coopdx for linux.
 
 # How to use
-## Dependencies (Taken from the coopdx build documentation)
+### Dependencies (Taken from the coopdx build documentation)
 The script has the following package requirements:
 
 * python3 >= 3.6
@@ -35,4 +35,4 @@ sudo dnf install python3.i686 glew-devel.i686 SDL2-devel.i686 zlib-devel.i686 li
 sudo pacman -S base-devel python sdl2 glew zlib-devel libcurl-devel
 ```
 
-## Usage Documentation
+### Usage Documentation
