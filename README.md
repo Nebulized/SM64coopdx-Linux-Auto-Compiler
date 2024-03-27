@@ -1,1 +1,1 @@
-# SM64coopdx Linux Auto Compiler
+# SM64coopdx Patcher For Linux
