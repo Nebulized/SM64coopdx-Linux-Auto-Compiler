@@ -25,7 +25,7 @@ command2 = "cd /home/"+user+"/sm64coopdx && make"+final_jobs+final_target_bits+f
 
 
 os.system(command1)
-input("Copy a us rom of super mario 64 into the new sm64coopdx directory and rename the rom file to baserom.us.z64")
+input("Copy a us rom of super mario 64 into the new sm64coopdx directory and rename the rom file to baserom.us.z64 and after that press enter")
 os.system(command2)
 
 
