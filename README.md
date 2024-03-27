@@ -3,4 +3,4 @@ Note: this is not like the windows coopdx patcher and this has only been tested 
 
 A simple python script for (almost)automaticaly compiling SM64coopdx for linux.
 
-#How to use
+# How to use
