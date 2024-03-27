@@ -1,2 +1,6 @@
 # SM64coopdx Patcher For Linux
-*THIS IS NOT A PORT OF THE COOPDX PATCHER THIS IS A COMPLETELY DIFERENT SCRIPT*
+Note: this is not like the windows coopdx patcher and this has only been tested on Fedora
+
+A simple python script for (almost)automaticaly compiling SM64coopdx for linux.
+
+#How to use
