@@ -34,3 +34,5 @@ sudo dnf install python3.i686 glew-devel.i686 SDL2-devel.i686 zlib-devel.i686 li
 ```
 sudo pacman -S base-devel python sdl2 glew zlib-devel libcurl-devel
 ```
+
+#### Usage Documentation
